@@ -1,0 +1,23 @@
+body
+{
+    color:darkblue;
+    background-color: chartreuse;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects,#result_object_accuracy,#result_object_name
+{
+    color:darkgoldenrod;
+}
+
+#camera
+{
+    width:350px;
+    height:350px;
+    border:2px dashed black;
+}
